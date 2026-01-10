@@ -5,6 +5,38 @@
 
 This project provides a deep-dive analysis of the Data Science job market using **Power BI**. The dashboard transforms complex workforce data into interactive visual stories, helping stakeholders understand compensation benchmarks, geographic demand, and the evolving requirements for roles like Data Engineers, Scientists, and Analysts.
 
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001222.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001236.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001249.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001302.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001321.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001333.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001346.png">
+</p>
+
+<p align="center">
+    <img src="https://github.com/dyneth02/PowerBI-Practice-Chores/blob/main/screenshots/Screenshot%202026-01-10%20001356.png">
+</p>
+
 🚀 Key Insights & Features
 --------------------------
 
